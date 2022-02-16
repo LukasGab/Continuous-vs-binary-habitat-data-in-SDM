@@ -1,3 +1,5 @@
+# Author: Lukas Gabor & Petr Keil, 2021
+
 # ===== Library packages =====
 library(PresenceAbsence)
 library(xlsx)
