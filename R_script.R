@@ -1,4 +1,4 @@
-# Author: Lukas Gabor & Petr Keil, 2021
+# Code Authors: Lukas Gabor & Petr Keil, 2021
 
 # ===== Library packages =====
 library(PresenceAbsence)
