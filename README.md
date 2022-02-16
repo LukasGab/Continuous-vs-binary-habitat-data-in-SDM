@@ -1,7 +1,7 @@
 # Continuous-vs-binary-habitat-data-in-SDM
 This repository was created as a supporting material for the article entitled: *"Habitats as predictors in species distribution models: Shall we use continuous or binary data?"*
 
-Code author: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs) & [Petr Keil](https://scholar.google.cz/citations?user=SUAqa68AAAAJ&hl=cs&oi=ao)
+Code authors: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs) & [Petr Keil](https://scholar.google.cz/citations?user=SUAqa68AAAAJ&hl=cs&oi=ao)
 
 Date the repository was created: 16/02/2022
 
