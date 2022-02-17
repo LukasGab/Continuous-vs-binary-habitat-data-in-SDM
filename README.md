@@ -10,7 +10,7 @@ Here I will add the paper citation
 
 **Files Description:**
 
-birds_name.csv: File with species Latin and English names. Used for save and plot results. 
+birds_name.csv: File with species Latin and English names. Used for results save and plot results. 
 
 data.csv: File with species data and environmetal variables used in our study. Species data were obtain from the [Atlas of breeding bird distribution in the Czech Republic 2001-2003](https://scholar.google.cz/scholar?hl=cs&as_sdt=0%2C7&q=Atlas+of+breeding+bird+distribution+in+the+Czech+Republic+2001-2003&btnG=). Environmetal variables were downloaded from CORINE Land Cover [webpages](https://land.copernicus.eu/pan-european/corine-land-cover).
 
