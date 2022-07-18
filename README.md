@@ -6,7 +6,7 @@ Code authors: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAA
 Date the repository was created: 16/02/2022
 
 **Relevant paper:**
-Here I will add the paper citation
+[Gábor, L., Šímová, P., Keil, P., Zarzo‐Arias, A., Marsh, C. J., Rocchini, D., ... & Moudrý, V. (2022). Habitats as predictors in species distribution models: Shall we use continuous or binary data?. Ecography, e06022.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06022)
 
 **Files Description:**
 
